@@ -6,7 +6,7 @@ title: postgresql
 {{ page.title }}
 ================
 
-<p class="meta">21 Aug 2016 - Moscow</p> 
+<p class="meta">14 Sep 2016 - Moscow</p> 
 
 [PSQL commands](http://proft.me/2013/06/9/postgresql-spravochnik-po-komandam-psql-pg_dump/)
 
