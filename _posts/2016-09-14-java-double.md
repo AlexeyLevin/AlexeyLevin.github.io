@@ -1,6 +1,6 @@
 ---
 layout: post
-title: links
+title: java-double
 ---
 
 {{ page.title }}
