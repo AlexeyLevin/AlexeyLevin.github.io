@@ -8,9 +8,9 @@ title: road map to competence
 
 <p class="meta">14 Sep 2016 - Moscow</p> 
 
-[at all part 1](https://docs.google.com/document/d/1FVvoSY35YD4BfAkv-XYGRITFbE17pA7A-R6S76UVsBQ/pub)
+[at all part 1](https://github.com/omreps/programmer-competency-matrix/blob/master/README.md)
 
-[at all part 2](https://docs.google.com/document/d/1tRkQMMI--Q0Du6naOthzaqCQBs8wQ6iSLOIeseA6W4w/pub)
+[at all part 2](https://github.com/omreps/programmer-competency-matrix/blob/master/partII.md)
 
 
 [in java from Golovach](http://kharkovitcourses.blogspot.ru/p/junior-java-developer-deep-materials.html)
